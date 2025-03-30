@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AJCE</title>
+
+<style>
+
+ header {
+    background-color: rgba(0, 0, 0, 0);
+    color: #000001;
+    padding: 1em;
+    text-align: center;
+}
+
+.logo {
+    display:block;
+    vertical-align: middle;
+}
+
+.logo img {
+    
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+h1 a {
+    color: rgb(1, 1, 1);
+    text-decoration: none;
+    color: #000001;
+    padding: 1em;
+    text-align: center;
+}
+
+.logo {
+    display:block;
+    vertical-align: middle;
+}
+
+.logo img {
+    
+    width: 500px;
+    height: 500px;      color: #000001;
+}
+
+h1 a:hover {
+    color: #3321213c;
+}
+.logo p {
+        font-size: 2em;
+        font-weight: bold;
+}
+</style>
+</head>
+
+    <body>
+
+        <header>
+            <div class="logo">
+       <center> <img src="https://www.ajce.in/300x300png.png" alt="ajce">
+    <p>ajce</p>
+    </center>
+    </div>
+    <h1><a href="ajce2.html"target="_blank">Amal Jyothi College of Engineering Autonomous</a></h1>
+</header>
+</body>
+</html>
+   
