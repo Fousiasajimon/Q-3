@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Departments & Courses</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ 
+    <main>
+        <section>
+            <section id="depts">
+                <h1 style="font-size: 32px;">Departments</h1>
+                <ul>
+                    <li><span style="font-size: 24px;">Computer Science and Engineering (CSE)</span></li>
+                    <li><span style="font-size: 24px;">Electronics and Communication Engineering (ECE)</span></li>
+                    <li><span style="font-size: 24px;">Electrical and Electronics Engineering (EEE)</span></li>
+                    <li><span style="font-size: 24px;">Mechanical Engineering (ME)</span></li>
+                    <li><span style="font-size: 24px;">Metallurgy and Materials Engineering (MME)</span></li>
+                    <li><span style="font-size: 24px;">Food Technology (ME)</span></li>
+                </ul>
+                <h1 style="font-size: 32px;">Courses</h1>
+                <ul>
+                    <li><span style="font-size: 24px;">B.Tech $ M-tech in Computcal Engineering</span></li>
+                    <li><span style="font-size: 24px;">B.Tech $ M.Tech in Electronicer Science and Engineering</span></li>
+                    <li><span style="font-size: 24px;">B.Tech $ M.Tech in Mechanis and Communication Engineering</span></li>
+                    <li><span style="font-size: 24px;">B.Tech $ M.Tech in Electrical and Electronics Engineering</span></li>
+                    <li><span style="font-size: 24px;">B.Tech $ M.Tech in Metallurgy and Materials Engineering</span></li>
+                    <li><span style="font-size: 24px;">BCA (Bachelor of Computer Applications)
